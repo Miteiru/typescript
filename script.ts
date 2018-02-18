@@ -107,7 +107,7 @@ let canBeNull = 12; // automatically assigns number type, but null can be assign
 let canAlsoBeNull; //any type
 canAlsoBeNull = null;
 let canThisBeAny = null;
-canThisBeAny = 12;
+// canThisBeAny = 12;
 
 //type excercise
 //original

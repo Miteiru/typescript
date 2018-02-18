@@ -89,7 +89,6 @@ var canBeNull = 12; // automatically assigns number type, but null can be assign
 var canAlsoBeNull; //any type
 canAlsoBeNull = null;
 var canThisBeAny = null;
-canThisBeAny = 12;
 var bankAccount = {
     money: 2000,
     deposit: function (value) {
